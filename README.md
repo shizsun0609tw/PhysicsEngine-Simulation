@@ -3,7 +3,7 @@
 This is a C/C++ project to simulate PhysicsEngine effect.<br/>
 This project is written by OPENGL 4.3.
 
-Demo Video: https://www.youtube.com/watch?v=oI6a284ffW0&feature=youtu.be
+Demo Video: https://www.youtube.com/watch?v=oI6a284ffW0
 
 ### Operation:
 * Move: W, A, S, D, Q, E
